@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, my name is Julieta Coronel 👋
+![Banner para Linkedin Licenciada Marketing Minimalista Beige (6)](https://github.com/user-attachments/assets/0e34db27-e6c1-4536-bea2-4c984490f531)
+
+
 
 <!--
 **JuliCoronel/JuliCoronel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
