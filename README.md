@@ -2,7 +2,7 @@
 ![Banner para Linkedin Licenciada Marketing Minimalista Beige (6)](https://github.com/user-attachments/assets/0e34db27-e6c1-4536-bea2-4c984490f531)
 ## About me 💁‍♀️
 I'm a ✨front-end web developer✨ who is looking for her first expiriences in a company🏬. I'm not working yet, but I always keep active by carrying out my own projects💻, so that day I get the oportunity to work, I will have a way to demonstrate all my knowledge💪.
-In the meantime✋, I'm also learning more about Python, Node.js, MongoDB and MySQL, since in the future I want to be a full-stack web developer.
+In the meantime✋, I'm also learning more about Python, MySQL and PHP, since in the future I want to be a full-stack web developer.
 Obviusly, I'm open to constructive criticism, collaborations or corrections, so if you want to do a project in group👨🏼‍🤝‍👨🏼, count on me!🤗
 ## Techical skills 🏆
 <h4>Front-end languages</h4>
