@@ -9,9 +9,9 @@ Soy una persona proactiva y de rápido aprendizaje que ama explorar nuevas tecno
 
 💻 Full-Stack Developer | 🚀 Passionate about learning and growing
 
-I'm a proactive and fast learner who loves exploring new technologies and improving both technical and soft skills. Currently, I'm expanding my knowledge with a PHP development course and actively engaging in web development projects to keep learning.
+I'm a proactive and fast learner who loves exploring new technologies and improving both technical and soft skills. Currently, I'm expanding my knowledge and actively engaging in web development projects to keep learning.
 🌱 Always improving: I enjoy teamwork, communicate clearly, and thrive in dynamic environments.
-🎯 Looking for my first opportunity: I'm actively seeking my first role in a company where I can contribute and grow as a developer.
+🎯 I'm actively seeking my first role in a company where I can contribute and grow as a developer.
 Obviusly, I'm open to constructive criticism, collaborations or corrections, so if you want to do a project in group👨🏼‍🤝‍👨🏼, count on me!🤗
 
 Let's connect! 🚀
